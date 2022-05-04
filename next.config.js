@@ -1,4 +1,10 @@
-
+module.exports = {
+  i18n: {
+    locales: ["en"],
+    defaultLocale: "en",
+  },
+  reactStrictMode: true,
+}
 const sourcebit = require('sourcebit');
 const sourcebitConfig = require('./sourcebit.js');
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
