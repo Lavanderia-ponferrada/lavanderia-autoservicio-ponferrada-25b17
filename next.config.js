@@ -15,7 +15,7 @@ module.exports = withBundleAnalyzer({
     i18n: {
     locales: ["en"],
     defaultLocale: "en",
-  },
+        },
   reactStrictMode: true,
 }
         ignoreDuringBuilds: true
