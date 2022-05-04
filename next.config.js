@@ -12,12 +12,12 @@ module.exports = withBundleAnalyzer({
     },
     eslint: {
         // Allow production builds to successfully complete even if your project has ESLint errors.
-    i18n: {
-        locales: ['es'],
-        defaultLocale: 'es',
-        localeDetection: false,
-  },
-  trailingSlash: true,
+        i18n: {
+            locales: ['es'],
+            defaultLocale: 'es',
+            localeDetection: false,
+        },
+        trailingSlash: true,
         ignoreDuringBuilds: true
     },
     webpack: (config, { dev }) => {
