@@ -567,6 +567,5 @@ sections:
         textAlign: center
 metaTags:
   - type: MetaTag
-    property: 'og:title'
     content: ''
 ---
