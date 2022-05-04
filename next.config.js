@@ -5,13 +5,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 });
 
 sourcebit.fetch(sourcebitConfig);
-/* next.config.js  */
-module.exports = {
-  i18n: {
-    locales: ["en"],
-    defaultLocale: "en",
-  },
-};
+
 module.exports = withBundleAnalyzer({
     trailingSlash: true,
     devIndicators: {
