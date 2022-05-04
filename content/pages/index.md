@@ -568,4 +568,7 @@ sections:
 metaTags:
   - type: MetaTag
     content: ''
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
