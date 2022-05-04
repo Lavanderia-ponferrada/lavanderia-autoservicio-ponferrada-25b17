@@ -569,6 +569,6 @@ metaTags:
   - type: MetaTag
     content: ''
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:locale'
     content: ''
 ---
