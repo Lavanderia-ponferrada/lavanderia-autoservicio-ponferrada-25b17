@@ -7,7 +7,7 @@ module.exports = {
         defaultLocale: "en",
     },
     reactStrictMode: true,
-    };
+    },
     mode: 'jit',
     purge: {
         content: ['./src/**/*.{js,ts,jsx,tsx}', './content/**/*'],
