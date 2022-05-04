@@ -13,7 +13,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link
-        label: Learn More
+        label: Learn Mor
         url: /
         showIcon: true
         icon: arrowRight
