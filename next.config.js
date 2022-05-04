@@ -15,7 +15,7 @@ module.exports = withBundleAnalyzer({
     defaultLocale: "en",
   },
   reactStrictMode: true,
-}
+},
     eslint: {
         // Allow production builds to successfully complete even if your project has ESLint errors.
         ignoreDuringBuilds: true
