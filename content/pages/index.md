@@ -567,6 +567,6 @@ sections:
         textAlign: center
 metaTags:
   - type: MetaTag
-    content: ''
+    content: ES
     property: 'og:locale'
 ---
