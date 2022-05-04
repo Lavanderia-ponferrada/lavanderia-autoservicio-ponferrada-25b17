@@ -16,8 +16,6 @@ module.exports = withBundleAnalyzer({
     locales: ["en"],
     defaultLocale: "en",
         },
-  reactStrictMode: true,
-}
         ignoreDuringBuilds: true
     },
     webpack: (config, { dev }) => {
