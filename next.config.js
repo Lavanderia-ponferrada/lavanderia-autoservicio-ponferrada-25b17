@@ -6,12 +6,12 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 
 sourcebit.fetch(sourcebitConfig);
 module.exports = {
-  i18n: {
-    locales: ["en"],
-    defaultLocale: "en",
-  },
-  reactStrictMode: true,
-},
+    i18n: {
+        locales: ["en"],
+        defaultLocale: "en",
+    },
+    reactStrictMode: true,
+};
 module.exports = withBundleAnalyzer({
     trailingSlash: true,
     devIndicators: {
