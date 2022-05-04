@@ -567,5 +567,5 @@ sections:
         textAlign: center
 metaTags:
   - type: MetaTag
-    property: 'og:locale'
+    property: 'og:site_name'
 ---
