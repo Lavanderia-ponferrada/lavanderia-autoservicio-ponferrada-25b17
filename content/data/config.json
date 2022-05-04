@@ -172,7 +172,7 @@
         },
                 {
             "type": "MetaTag",
-            "property": "og:locale",
+            "property": "",
             "content": "es_ES"
         },
         {
