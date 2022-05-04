@@ -1,4 +1,3 @@
-
 const sourcebit = require('sourcebit');
 const sourcebitConfig = require('./sourcebit.js');
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
