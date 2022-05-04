@@ -575,6 +575,6 @@ metaTags:
     property: 'og:locale'
     content: spanish
   - type: MetaTag
-    property: 'og:locale'
+    property: 'Accept-Language'
     content: spanish
 ---
