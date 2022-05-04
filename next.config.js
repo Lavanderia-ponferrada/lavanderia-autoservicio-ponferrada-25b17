@@ -15,7 +15,7 @@ module.exports = withBundleAnalyzer({
     i18n: {
         locales: ['default', 'en', 'de', 'fr'],
         defaultLocale: 'default',
-    localeDetection: false,
+        localeDetection: false,
   },
   trailingSlash: true,
         ignoreDuringBuilds: true
