@@ -13,7 +13,7 @@ module.exports = withBundleAnalyzer({
     eslint: {
         // Allow production builds to successfully complete even if your project has ESLint errors.
     i18n: {
-        locales: ['default', 'en'],
+        locales: ['default', 'es'],
         defaultLocale: 'default',
         localeDetection: false,
   },
