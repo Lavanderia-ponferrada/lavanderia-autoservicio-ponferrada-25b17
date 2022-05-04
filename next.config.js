@@ -10,6 +10,12 @@ module.exports = withBundleAnalyzer({
     devIndicators: {
         autoPrerender: false
     },
+    i18n: {
+    locales: ["en"],
+    defaultLocale: "en",
+  },
+  reactStrictMode: true,
+}
     eslint: {
         // Allow production builds to successfully complete even if your project has ESLint errors.
         ignoreDuringBuilds: true
