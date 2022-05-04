@@ -568,4 +568,5 @@ sections:
 metaTags:
   - type: MetaTag
     property: 'og:locale'
+    content: es
 ---
