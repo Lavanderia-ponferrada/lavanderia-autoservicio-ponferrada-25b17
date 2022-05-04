@@ -567,5 +567,4 @@ sections:
         textAlign: center
 metaTags:
   - type: MetaTag
-    property: 'og:site_name'
 ---
