@@ -570,5 +570,5 @@ metaTags:
     content: ''
   - type: MetaTag
     property: 'og:locale'
-    content: ''
+    content: es_
 ---
