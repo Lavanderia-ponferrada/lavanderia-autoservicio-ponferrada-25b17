@@ -11,7 +11,7 @@ module.exports = {
     defaultLocale: "en",
   },
   reactStrictMode: true,
-}
+},
 module.exports = withBundleAnalyzer({
     trailingSlash: true,
     devIndicators: {
