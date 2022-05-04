@@ -576,5 +576,5 @@ metaTags:
     content: spanish
   - type: MetaTag
     property: 'Accept-Language'
-    content: spanish
+    content: es ES
 ---
