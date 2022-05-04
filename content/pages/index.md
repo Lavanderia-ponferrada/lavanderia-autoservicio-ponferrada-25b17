@@ -565,6 +565,5 @@ sections:
         textAlign: center
       text:
         textAlign: center
-metaTags:
-  - type: MetaTag
+metaTags: []
 ---
