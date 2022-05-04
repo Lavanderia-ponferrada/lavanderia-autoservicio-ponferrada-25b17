@@ -2,6 +2,12 @@ const plugin = require('tailwindcss/plugin');
 const themeStyle = require('./content/data/style.json');
 
 module.exports = {
+        i18n: {
+        locales: ["en"],
+        defaultLocale: "en",
+    },
+    reactStrictMode: true,
+};
     mode: 'jit',
     purge: {
         content: ['./src/**/*.{js,ts,jsx,tsx}', './content/**/*'],
