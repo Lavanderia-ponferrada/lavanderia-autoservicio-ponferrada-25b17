@@ -5,7 +5,7 @@ cmsName: git
 fields:
  - type: string
     name: lang
-        label: Site Language
+    label: Site Language
         description: es
 assets:
   referenceType: static
