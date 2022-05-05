@@ -8,7 +8,10 @@ fieldGroups:
   - name: seo
     label: SEO
 fields:
-
+ - type: string
+    name: lang
+    label: Site Language
+    description: es
   - type: image
     name: favicon
     label: Favicon
