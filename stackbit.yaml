@@ -33,3 +33,4 @@ modelsSource:
   type: files
   modelDirs:
     - .stackbit/models
+    
