@@ -2,11 +2,6 @@ stackbitVersion: ~0.4.0
 ssgName: nextjs
 nodeVersion: '14'
 cmsName: git
-fields:
- - type: string
-    name: lang
-    label: Site Language
-    description: es
 assets:
   referenceType: static
   staticDir: public
