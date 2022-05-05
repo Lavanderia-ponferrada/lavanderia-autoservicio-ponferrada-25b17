@@ -175,6 +175,11 @@
             "property": "Accept-Language",
             "content": "es"
         },
+                        {
+            "type": "MetaTag",
+            "property": "Accept-Language",
+            "content": "es"
+        },
         {
             "type": "MetaTag",
             "property": "og:title",
