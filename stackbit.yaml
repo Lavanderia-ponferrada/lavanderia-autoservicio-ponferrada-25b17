@@ -11,7 +11,7 @@ models:
       - type: string
         name: lang
         label: Site Language
-        description: The language of the site used in HTML lang attribute.
+        description: es
 assets:
   referenceType: static
   staticDir: public
