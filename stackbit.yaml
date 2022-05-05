@@ -6,7 +6,7 @@ models:
   config:
     type: data
     label: Config
-    file: config.yml
+    file: config.yaml
     fields:
       - type: string
         name: lang
