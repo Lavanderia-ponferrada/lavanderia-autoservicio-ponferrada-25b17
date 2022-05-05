@@ -1,18 +1,18 @@
-import Document from "next/document";
-import {Html, Head, Main, NextScript } from "next/document";
-class AppDocument extends Document {
+import Document, { Head, Html, Main, NextScript } from 'next/document';
+
+class MyDocument extends Document {
     render() {
-        return(
-            <Html lang="en">
-                <Head>
-                    <meta name="description" content="This is my App description."/>
-                </Head>
+        return (
+            // Agregamos el idioma que deseemos, aquí por ejemplo español.
+            <Html lang="es">
+                <Head />
                 <body>
-                    <Main></Main>
-                    <NextScript></NextScript>
+                    <Main />
+                    <NextScript />
                 </body>
             </Html>
-        )
+        );
     }
 }
-export default AppDocument
+
+export default MyDocument;
