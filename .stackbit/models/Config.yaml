@@ -20,7 +20,7 @@ fields:
     label: Footer configuration
     models: [Footer]
   - type: string
-        name: lang
+    name: lang
         label: Site Language
         description: The language of the site used in HTML lang attribute
   - type: string
