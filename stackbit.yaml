@@ -3,7 +3,7 @@ ssgName: nextjs
 nodeVersion: '14'
 cmsName: git
 fields:
-      - type: string
+   - type: string
         name: lang
         label: Site Language
         description: es
