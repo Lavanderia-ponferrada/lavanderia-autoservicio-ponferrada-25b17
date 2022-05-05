@@ -11,7 +11,7 @@ fields:
  - type: string
     name: lang
     label: Site Language
-    default: es-ES'
+    default: 'es-ES'
   - type: image
     name: favicon
     label: Favicon
