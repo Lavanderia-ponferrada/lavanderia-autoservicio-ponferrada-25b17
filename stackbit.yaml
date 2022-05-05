@@ -33,4 +33,13 @@ modelsSource:
   type: files
   modelDirs:
     - .stackbit/models
-    
+    models:
+  config:
+    type: data
+    label: Config
+    file: _config.yml
+    fields:
+      - type: string
+        name: lang
+        label: Site Language
+        description: The language of the site used in HTML lang attribute.
