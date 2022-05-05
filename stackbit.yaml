@@ -3,10 +3,6 @@ ssgName: nextjs
 nodeVersion: '14'
 cmsName: git
 models:
-  config:
-    type: data
-    label: Config
-    file: config.yaml
     fields:
       - type: string
         name: lang
