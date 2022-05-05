@@ -33,5 +33,4 @@ modelsSource:
   type: files
   modelDirs:
     - .stackbit/models
-    I have tried several ways but none with success. In almost all of them I have to create a _document.js file Has anyone had any success setting the "lang" parameter or some other parameter in the html? I see sites created with stackbit that do declare the language but I don't know if they have been created with the latest version. Has anyone had success?
-
+    
