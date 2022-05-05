@@ -4,7 +4,16 @@ label: Site configuration
 lang: es-ES
 singleInstance: true
 readOnly: true
-
+models:
+  config:
+    type: data
+    label: Config
+    file: _config.yml
+    fields:
+      - type: string
+        name: lang
+        label: Site Language
+        description: The language of the site used in HTML lang attribute
 fieldGroups:
   - name: seo
     label: SEO
