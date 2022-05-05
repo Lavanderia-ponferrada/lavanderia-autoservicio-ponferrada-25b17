@@ -21,7 +21,7 @@ fields:
     models: [Footer]
   - type: string
     name: lang
-        label: Site Language
+    label: Site Language
         description: The language of the site used in HTML lang attribute
   - type: string
     name: titleSuffix
