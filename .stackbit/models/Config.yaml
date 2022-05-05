@@ -4,6 +4,7 @@ label: Site configuration
 lang: es-ES
 singleInstance: true
 readOnly: true
+
 fieldGroups:
   - name: seo
     label: SEO
