@@ -1,6 +1,8 @@
 type: data
 name: Config
 label: Site configuration
+# Site language
+lang: en-US
 singleInstance: true
 readOnly: true
 fieldGroups:
