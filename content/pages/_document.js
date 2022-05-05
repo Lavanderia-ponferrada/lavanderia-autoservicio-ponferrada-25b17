@@ -1,5 +1,5 @@
 import Document from "document";
-import {Html, Head, Main, NextScript } from "next/document";
+import {Html, Head, Main, NextScript } from "document";
 class AppDocument extends Document {
     render() {
         return(
