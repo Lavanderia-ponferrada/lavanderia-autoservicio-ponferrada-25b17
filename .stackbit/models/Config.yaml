@@ -8,7 +8,7 @@ models:
   config:
     type: data
     label: Config
-    file: _config.yml
+    file: config.yml
     fields:
       - type: string
         name: lang
