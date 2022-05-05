@@ -3,14 +3,14 @@ ssgName: nextjs
 nodeVersion: '14'
 cmsName: git
 config:
-    type: data
-    label: Config
-    file: config.yaml
-    fields:
-      - type: string
-        name: lang
-        label: Site Language
-        description: es
+   type: data
+   label: Config
+   file: config.yaml
+   fields:
+     - type: string
+       name: lang
+       label: Site Language
+       description: es
 models:
 assets:
   referenceType: static
