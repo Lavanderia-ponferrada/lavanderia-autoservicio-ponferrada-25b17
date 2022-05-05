@@ -172,7 +172,7 @@
         },
                 {
             "type": "MetaTag",
-            "property": "Accept-Language",
+            "property": "languageCodee",
             "content": "es"
         },
         {
