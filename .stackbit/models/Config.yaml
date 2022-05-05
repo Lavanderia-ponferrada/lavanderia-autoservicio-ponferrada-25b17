@@ -8,6 +8,7 @@ fieldGroups:
   - name: seo
     label: SEO
 fields:
+
   - type: image
     name: favicon
     label: Favicon
