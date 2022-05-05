@@ -2,16 +2,7 @@ stackbitVersion: ~0.4.0
 ssgName: nextjs
 nodeVersion: '14'
 cmsName: git
-models:
-  config:
-    type: data
-    label: Config
-    file: _config.yml
-    fields:
-      - type: string
-        name: lang
-        label: Site Language
-        description: es
+
 assets:
   referenceType: static
   staticDir: public
